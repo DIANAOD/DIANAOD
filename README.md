@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: follow me on github 
 - 😄 Pronouns: Nana, Naniss
-- ⚡ Fun fact: I like learnig languages, discover culture and in love pasta!
+- ⚡ Fun fact: I like learnig languages, discover culture and i love cats and pasta!
 
 
 ### ABOUT ME
