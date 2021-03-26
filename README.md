@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+![OptimisticOccasionalAiredale-size_restricted](https://user-images.githubusercontent.com/71117842/112668278-9dc5fb80-8e5e-11eb-86ed-650e60304b83.gif)
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portafolio in REACT.JS
 - 🌱 I’m currently learning React.js, Docker and UX design
