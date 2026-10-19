@@ -17,8 +17,6 @@
 
 • 🖥 Majoring in ML, with a focus on Big Data & Analytics, but I also enjoy web development since 2008
 • 👔 Minor in Project Management
-• 🎓 Studying at ECE Paris.Lyon, class of 2022
-• 🐵 I use Windows 10 (sometimes Linux)
 
 # Blog posts
 
